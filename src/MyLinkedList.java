@@ -1,4 +1,3 @@
-import javax.xml.soap.Node;
 
 public class MyLinkedList {
     private Node head;
